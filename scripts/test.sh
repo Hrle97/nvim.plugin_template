@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 set -euo pipefail
 
 root_path="$(realpath -e "${BASH_SOURCE[0]}" | xargs dirname | xargs dirname)"
