@@ -18,4 +18,4 @@ jobs:
           neovim: true
       - name: Run tests
         shell: bash
-        run: ./scripts/test.sh "$RUNNER_TEMP/build"
+        run: ./scripts/test.sh
