@@ -18,6 +18,7 @@ CONTENTS
 
     1. Overview ..................... |plugin_overview|
     2. Examples ..................... |plugin_examples|
+      2.1. example................... |plugin_example_example|
     3. Documentation ................ |plugin_documentation|
     4. Changelog .................... |plugin_changelog|
     5. Bugs ......................... |plugin_bugs|
@@ -37,6 +38,15 @@ Plugin Full Description
                                                                *plugin_examples*
 
 2. Examples
+
+
+------------------------------------------------------------------------------
+                                                        *plugin_example_example*
+  2.1. example
+
+>
+    expect(plugin)
+<
 
 
 ==============================================================================
